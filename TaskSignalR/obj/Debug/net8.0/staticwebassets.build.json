@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qx2B9WucvJcoTP3KIQqosIGF9cFAeYWQrRNNHkr4dPY=",
+  "Source": "TaskSignalR",
+  "BasePath": "_content/TaskSignalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

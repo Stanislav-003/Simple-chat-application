@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TaskSignalR</name>
+    </assembly>
+    <members>
+        <member name="T:TaskSignalR.Controllers.ChatController">
+            <summary>
+            Controller for handling chat-related operations.
+            </summary>
+        </member>
+        <member name="M:TaskSignalR.Controllers.ChatController.#ctor(TaskSignalR.BLL.IService.IChatService,Microsoft.Extensions.Logging.ILogger{TaskSignalR.Controllers.ChatController})">
+            <summary>
+            Initializes a new instance of the <see cref="T:TaskSignalR.Controllers.ChatController"/> class.
+            </summary>
+            <param name="chatService">The chat service dependency.</param>
+        </member>
+        <member name="M:TaskSignalR.Controllers.ChatController.GetAllChats">
+            <summary>
+            Get all chats.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET api/Chat/GetAll
+            
+            </remarks>
+            <returns>A list of all chats.</returns>
+        </member>
+        <member name="M:TaskSignalR.Controllers.ChatController.GetChatById(System.Int32)">
+            <summary>
+            Get a chat by its ID.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET api/Chat/GetById?id=1
+            
+            </remarks>
+            <param name="id">The ID of the chat.</param>
+            <returns>The chat with the specified ID.</returns>
+        </member>
+        <member name="M:TaskSignalR.Controllers.ChatController.SearchChats(System.String)">
+            <summary>
+            Search chats by title.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET api/Chat/GetByTitle?title=General
+            
+            </remarks>
+            <param name="title">The title to search for.</param>
+            <returns>A list of chats matching the search criteria.</returns>
+        </member>
+        <member name="M:TaskSignalR.Controllers.ChatController.CreateChat(TaskSignalR.Contracts.ChatRequest)">
+            <summary>
+            Create a new chat.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST api/Chat/Create
+                {
+                    "title": "New Chat",
+                    "creatorId": 1
+                }
+            
+            </remarks>
+            <param name="request">The request containing chat details.</param>
+            <returns>A boolean indicating if the chat was created successfully.</returns>
+        </member>
+        <member name="M:TaskSignalR.Controllers.ChatController.AddMessage(TaskSignalR.Contracts.MessageRequest)">
+            <summary>
+            Add a message to a chat.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST api/Chat/AddMessage
+                {
+                    "content": "Hello, world!",
+                    "chatId": 1,
+                    "userId": 1
+                }
+            
+            </remarks>
+            <param name="request">The request containing message details.</param>
+            <returns>A boolean indicating if the message was added successfully.</returns>
+        </member>
+        <member name="M:TaskSignalR.Controllers.ChatController.AddUserToChat(TaskSignalR.Contracts.UserRequest)">
+            <summary>
+            Add a user to a chat.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST api/Chat/AddUser
+                {
+                    "chatId": 1,
+                    "userId": 2
+                }
+            
+            </remarks>
+            <param name="request">The request containing user and chat details.</param>
+            <returns>A boolean indicating if the user was added successfully.</returns>
+        </member>
+        <member name="M:TaskSignalR.Controllers.ChatController.DeleteChat(TaskSignalR.Contracts.ChatRequest)">
+            <summary>
+            Delete a chat.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                DELETE api/Chat/Delete
+                {
+                    "title": "New Chat",
+                    "creatorId": 1
+                }
+            
+            </remarks>
+            <param name="request">The request containing chat details.</param>
+            <returns>A boolean indicating if the chat was deleted successfully.</returns>
+        </member>
+        <member name="M:TaskSignalR.Controllers.ChatController.RemoveUserFromChat(TaskSignalR.Contracts.UserRequest)">
+            <summary>
+            Remove a user from a chat.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                DELETE api/Chat/RemoveUser
+                {
+                    "chatId": 1,
+                    "userId": 2
+                }
+            
+            </remarks>
+            <param name="request">The request containing user and chat details.</param>
+            <returns>A boolean indicating if the user was removed successfully.</returns>
+        </member>
+        <member name="T:TaskSignalR.Controllers.UserController">
+            <summary>
+            Controller for handling user-related operations.
+            </summary>
+        </member>
+        <member name="M:TaskSignalR.Controllers.UserController.#ctor(TaskSignalR.BLL.IService.IUserService,Microsoft.Extensions.Logging.ILogger{TaskSignalR.Controllers.UserController})">
+            <summary>
+            Initializes a new instance of the <see cref="T:TaskSignalR.Controllers.UserController"/> class.
+            </summary>
+            <param name="userService">The user service dependency.</param>
+            <param name="logger">The logger dependency.</param>
+        </member>
+        <member name="M:TaskSignalR.Controllers.UserController.GetAllUsers">
+            <summary>
+            Get All Users.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET api/User/GetAll
+            
+            </remarks>
+            <returns>A list of existed users.</returns>
+        </member>
+        <member name="M:TaskSignalR.Controllers.UserController.GetUserById(System.Int32)">
+            <summary>
+            Get a User by ID.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET api/User/GetById?id=1
+            
+            </remarks>
+            <param name="id">The ID of the user.</param>
+            <returns>The user with the specified ID.</returns>
+        </member>
+        <member name="M:TaskSignalR.Controllers.UserController.CreateUser(System.String)">
+            <summary>
+            Create a new User.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST api/User/Create?name=NewUserName
+            
+            </remarks>
+            <param name="name">The name of the user.</param>
+            <returns>A boolean indicating if the user was created successfully.</returns>
+        </member>
+        <member name="M:TaskSignalR.Controllers.UserController.UpdateUser(System.Int32,System.String)">
+            <summary>
+            Update an existing User.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                PUT api/User/Update?id=1&amp;name=NewUserUpdated
+            
+            </remarks>
+            <param name="id">The ID of the user to update.</param>
+            <param name="name">The new name of the user.</param>
+            <returns>A boolean indicating if the user was updated successfully.</returns>
+        </member>
+        <member name="M:TaskSignalR.Controllers.UserController.DeleteUser(System.Int32)">
+            <summary>
+            Delete a User by ID.
+            </summary>
+            <remarks>
+            Sample request:
+            
+                DELETE api/User/Delete?id=1
+            
+            </remarks>
+            <param name="id">The ID of the user to delete.</param>
+            <returns>A boolean indicating if the user was deleted successfully.</returns>
+        </member>
+    </members>
+</doc>

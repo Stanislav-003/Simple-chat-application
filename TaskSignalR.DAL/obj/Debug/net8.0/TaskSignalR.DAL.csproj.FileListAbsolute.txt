@@ -1,0 +1,28 @@
+C:\Users\sever\Desktop\ITVDN HW\TaskSignalR.DAL\bin\Debug\net8.0\TaskSignalR.DAL.deps.json
+C:\Users\sever\Desktop\ITVDN HW\TaskSignalR.DAL\bin\Debug\net8.0\TaskSignalR.DAL.runtimeconfig.json
+C:\Users\sever\Desktop\ITVDN HW\TaskSignalR.DAL\bin\Debug\net8.0\TaskSignalR.DAL.dll
+C:\Users\sever\Desktop\ITVDN HW\TaskSignalR.DAL\bin\Debug\net8.0\TaskSignalR.DAL.pdb
+C:\Users\sever\Desktop\ITVDN HW\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.csproj.AssemblyReference.cache
+C:\Users\sever\Desktop\ITVDN HW\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sever\Desktop\ITVDN HW\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.AssemblyInfoInputs.cache
+C:\Users\sever\Desktop\ITVDN HW\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.AssemblyInfo.cs
+C:\Users\sever\Desktop\ITVDN HW\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.csproj.CoreCompileInputs.cache
+C:\Users\sever\Desktop\ITVDN HW\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.dll
+C:\Users\sever\Desktop\ITVDN HW\TaskSignalR.DAL\obj\Debug\net8.0\refint\TaskSignalR.DAL.dll
+C:\Users\sever\Desktop\ITVDN HW\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.pdb
+C:\Users\sever\Desktop\ITVDN HW\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.genruntimeconfig.cache
+C:\Users\sever\Desktop\ITVDN HW\TaskSignalR.DAL\obj\Debug\net8.0\ref\TaskSignalR.DAL.dll
+C:\Users\sever\Desktop\ITVDN HW\Simple chat application\TaskSignalR.DAL\bin\Debug\net8.0\TaskSignalR.DAL.deps.json
+C:\Users\sever\Desktop\ITVDN HW\Simple chat application\TaskSignalR.DAL\bin\Debug\net8.0\TaskSignalR.DAL.runtimeconfig.json
+C:\Users\sever\Desktop\ITVDN HW\Simple chat application\TaskSignalR.DAL\bin\Debug\net8.0\TaskSignalR.DAL.dll
+C:\Users\sever\Desktop\ITVDN HW\Simple chat application\TaskSignalR.DAL\bin\Debug\net8.0\TaskSignalR.DAL.pdb
+C:\Users\sever\Desktop\ITVDN HW\Simple chat application\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.csproj.AssemblyReference.cache
+C:\Users\sever\Desktop\ITVDN HW\Simple chat application\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sever\Desktop\ITVDN HW\Simple chat application\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.AssemblyInfoInputs.cache
+C:\Users\sever\Desktop\ITVDN HW\Simple chat application\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.AssemblyInfo.cs
+C:\Users\sever\Desktop\ITVDN HW\Simple chat application\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.csproj.CoreCompileInputs.cache
+C:\Users\sever\Desktop\ITVDN HW\Simple chat application\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.dll
+C:\Users\sever\Desktop\ITVDN HW\Simple chat application\TaskSignalR.DAL\obj\Debug\net8.0\refint\TaskSignalR.DAL.dll
+C:\Users\sever\Desktop\ITVDN HW\Simple chat application\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.pdb
+C:\Users\sever\Desktop\ITVDN HW\Simple chat application\TaskSignalR.DAL\obj\Debug\net8.0\TaskSignalR.DAL.genruntimeconfig.cache
+C:\Users\sever\Desktop\ITVDN HW\Simple chat application\TaskSignalR.DAL\obj\Debug\net8.0\ref\TaskSignalR.DAL.dll

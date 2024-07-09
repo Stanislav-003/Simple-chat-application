@@ -1,0 +1,659 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{146971C3-166F-440A-B62B-CB56E58B3AB2}|..\\TaskSignalR.Tests\\TaskSignalR.Tests.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.tests\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146971C3-166F-440A-B62B-CB56E58B3AB2}|..\\TaskSignalR.Tests\\TaskSignalR.Tests.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.tests\\chatcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3DE7B4-8921-4AC2-9BD1-C33C6F0CA1C2}|..\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3DE7B4-8921-4AC2-9BD1-C33C6F0CA1C2}|..\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.dal\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDAC75-1AC2-4A02-B3E5-F276BAEF158B}|..\\TaskSignalR.BLL\\TaskSignalR.BLL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDAC75-1AC2-4A02-B3E5-F276BAEF158B}|..\\TaskSignalR.BLL\\TaskSignalR.BLL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.bll\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3DE7B4-8921-4AC2-9BD1-C33C6F0CA1C2}|..\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.dal\\repository\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3DE7B4-8921-4AC2-9BD1-C33C6F0CA1C2}|..\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.dal\\irepository\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDAC75-1AC2-4A02-B3E5-F276BAEF158B}|..\\TaskSignalR.BLL\\TaskSignalR.BLL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.bll\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\contracts\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|solutionrelative:contracts\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\contracts\\chatresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|solutionrelative:contracts\\chatresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\contracts\\messagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|solutionrelative:contracts\\messagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\contracts\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|solutionrelative:contracts\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\contracts\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|solutionrelative:contracts\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDAC75-1AC2-4A02-B3E5-F276BAEF158B}|..\\TaskSignalR.BLL\\TaskSignalR.BLL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDAC75-1AC2-4A02-B3E5-F276BAEF158B}|..\\TaskSignalR.BLL\\TaskSignalR.BLL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.bll\\dto\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDAC75-1AC2-4A02-B3E5-F276BAEF158B}|..\\TaskSignalR.BLL\\TaskSignalR.BLL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.bll\\dto\\chatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDAC75-1AC2-4A02-B3E5-F276BAEF158B}|..\\TaskSignalR.BLL\\TaskSignalR.BLL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.bll\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDAC75-1AC2-4A02-B3E5-F276BAEF158B}|..\\TaskSignalR.BLL\\TaskSignalR.BLL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.bll\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDAC75-1AC2-4A02-B3E5-F276BAEF158B}|..\\TaskSignalR.BLL\\TaskSignalR.BLL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.bll\\iservice\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3DE7B4-8921-4AC2-9BD1-C33C6F0CA1C2}|..\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3DE7B4-8921-4AC2-9BD1-C33C6F0CA1C2}|..\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.dal\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3DE7B4-8921-4AC2-9BD1-C33C6F0CA1C2}|..\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.dal\\models\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3DE7B4-8921-4AC2-9BD1-C33C6F0CA1C2}|..\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.dal\\models\\chatuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3DE7B4-8921-4AC2-9BD1-C33C6F0CA1C2}|..\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\tasksignalr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|solutionrelative:tasksignalr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3DE7B4-8921-4AC2-9BD1-C33C6F0CA1C2}|..\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.dal\\tasksignalr.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDDAC75-1AC2-4A02-B3E5-F276BAEF158B}|..\\TaskSignalR.BLL\\TaskSignalR.BLL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.bll\\tasksignalr.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\tasksignalr.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|solutionrelative:tasksignalr.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3DE7B4-8921-4AC2-9BD1-C33C6F0CA1C2}|..\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj|c:\\users\\sever\\desktop\\itvdn hw\\tasksignalr.dal\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{619E7E2A-D1B1-480F-B403-39DFEEE6E904}|TaskSignalR.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3DE7B4-8921-4AC2-9BD1-C33C6F0CA1C2}|..\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj|C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Migrations\\20240706150830_CreateInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\contracts\\createchatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contracts\\createchatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\contracts\\deletechatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contracts\\deletechatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\contracts\\addmessagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contracts\\addmessagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 159,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.Tests\\UserControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.Tests\\UserControllerTests.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.Tests\\UserControllerTests.cs",
+              "RelativeToolTip": "..\\TaskSignalR.Tests\\UserControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:31:44.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.Tests\\ChatControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.Tests\\ChatControllerTests.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.Tests\\ChatControllerTests.cs",
+              "RelativeToolTip": "..\\TaskSignalR.Tests\\ChatControllerTests.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAowOIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:18:04.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwC8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T15:56:05.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:30:43.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\IService\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.BLL\\IService\\IUserService.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\IService\\IUserService.cs",
+              "RelativeToolTip": "..\\TaskSignalR.BLL\\IService\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:46:39.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\TaskSignalR.BLL\\Services\\UserService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:45:24.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.DAL\\IRepository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "..\\TaskSignalR.DAL\\IRepository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:03:42.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.DAL\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "..\\TaskSignalR.DAL\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:03:35.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IChatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\IRepository\\IChatRepository.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.DAL\\IRepository\\IChatRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\IRepository\\IChatRepository.cs",
+              "RelativeToolTip": "..\\TaskSignalR.DAL\\IRepository\\IChatRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:00:03.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.BLL\\Services\\ChatService.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\Services\\ChatService.cs",
+              "RelativeToolTip": "..\\TaskSignalR.BLL\\Services\\ChatService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:45:13.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChatRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\ChatRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\ChatRequest.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\ChatRequest.cs",
+              "RelativeToolTip": "Contracts\\ChatRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:54:02.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChatResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\ChatResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\ChatResponse.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\ChatResponse.cs",
+              "RelativeToolTip": "Contracts\\ChatResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:40:04.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MessageRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\MessageRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\MessageRequest.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\MessageRequest.cs",
+              "RelativeToolTip": "Contracts\\MessageRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:01:25.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\UserRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\UserRequest.cs",
+              "RelativeToolTip": "Contracts\\UserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:06:25.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Repository\\ChatRepository.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.DAL\\Repository\\ChatRepository.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Repository\\ChatRepository.cs",
+              "RelativeToolTip": "..\\TaskSignalR.DAL\\Repository\\ChatRepository.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwKIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:02:44.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\UserResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\UserResponse.cs",
+              "RelativeToolTip": "Contracts\\UserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:15:05.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:48:28.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.BLL\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\DTO\\UserDto.cs",
+              "RelativeToolTip": "..\\TaskSignalR.BLL\\DTO\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:16:21.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\DTO\\MessageDto.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.BLL\\DTO\\MessageDto.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\DTO\\MessageDto.cs",
+              "RelativeToolTip": "..\\TaskSignalR.BLL\\DTO\\MessageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:30:04.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChatDto.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\DTO\\ChatDto.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.BLL\\DTO\\ChatDto.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\DTO\\ChatDto.cs",
+              "RelativeToolTip": "..\\TaskSignalR.BLL\\DTO\\ChatDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:30:00.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.BLL\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "..\\TaskSignalR.BLL\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:50:29.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.BLL\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\TaskSignalR.BLL\\DependencyInjection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:14:44.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\IService\\IChatService.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.BLL\\IService\\IChatService.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\IService\\IChatService.cs",
+              "RelativeToolTip": "..\\TaskSignalR.BLL\\IService\\IChatService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:46:21.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.DAL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\TaskSignalR.DAL\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:02:54.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.DAL\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Models\\Message.cs",
+              "RelativeToolTip": "..\\TaskSignalR.DAL\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:00:11.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Models\\Chat.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.DAL\\Models\\Chat.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Models\\Chat.cs",
+              "RelativeToolTip": "..\\TaskSignalR.DAL\\Models\\Chat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:00:00.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChatUser.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Models\\ChatUser.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.DAL\\Models\\ChatUser.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Models\\ChatUser.cs",
+              "RelativeToolTip": "..\\TaskSignalR.DAL\\Models\\ChatUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T14:47:39.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.DAL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Models\\User.cs",
+              "RelativeToolTip": "..\\TaskSignalR.DAL\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:59:38.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TaskSignalR.csproj",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\TaskSignalR.csproj",
+              "RelativeDocumentMoniker": "TaskSignalR.csproj",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\TaskSignalR.csproj",
+              "RelativeToolTip": "TaskSignalR.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T09:12:42.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TaskSignalR.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj",
+              "RelativeToolTip": "..\\TaskSignalR.DAL\\TaskSignalR.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-06T12:57:52.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TaskSignalR",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\TaskSignalR.csproj",
+              "RelativeDocumentMoniker": "TaskSignalR.csproj",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\TaskSignalR.csproj",
+              "RelativeToolTip": "TaskSignalR.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T10:22:24.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TaskSignalR.BLL",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\TaskSignalR.BLL.csproj",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.BLL\\TaskSignalR.BLL.csproj",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.BLL\\TaskSignalR.BLL.csproj",
+              "RelativeToolTip": "..\\TaskSignalR.BLL\\TaskSignalR.BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T10:23:18.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateChatRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\CreateChatRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\CreateChatRequest.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\CreateChatRequest.cs",
+              "RelativeToolTip": "Contracts\\CreateChatRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:02:47.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DeleteChatRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\DeleteChatRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\DeleteChatRequest.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\DeleteChatRequest.cs",
+              "RelativeToolTip": "Contracts\\DeleteChatRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:02:57.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddMessageRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\AddMessageRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\AddMessageRequest.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Contracts\\AddMessageRequest.cs",
+              "RelativeToolTip": "Contracts\\AddMessageRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:03:05.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-06T16:11:41.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.DAL\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\TaskSignalR.DAL\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T15:45:17.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240706150830_CreateInit.cs",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Migrations\\20240706150830_CreateInit.cs",
+              "RelativeDocumentMoniker": "..\\TaskSignalR.DAL\\Migrations\\20240706150830_CreateInit.cs",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR.DAL\\Migrations\\20240706150830_CreateInit.cs",
+              "RelativeToolTip": "..\\TaskSignalR.DAL\\Migrations\\20240706150830_CreateInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T15:08:30.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sever\\Desktop\\ITVDN HW\\TaskSignalR\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-06T13:17:00.684Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 456,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
